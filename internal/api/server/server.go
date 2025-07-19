@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/sinasadeghi83/aut-grader/internal/api/config"
 	"github.com/sinasadeghi83/aut-grader/internal/api/server/user"
+	"github.com/sinasadeghi83/aut-grader/pkg/config"
 	"gorm.io/gorm"
 )
 

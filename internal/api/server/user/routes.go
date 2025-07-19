@@ -2,8 +2,8 @@ package user
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/sinasadeghi83/aut-grader/internal/api/config"
 	"github.com/sinasadeghi83/aut-grader/internal/api/user"
+	"github.com/sinasadeghi83/aut-grader/pkg/config"
 	"gorm.io/gorm"
 )
 

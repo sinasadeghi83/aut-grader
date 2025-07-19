@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/sinasadeghi83/aut-grader/internal/api/platform/rest"
 	"github.com/sinasadeghi83/aut-grader/internal/api/user"
+	"github.com/sinasadeghi83/aut-grader/pkg/platform/rest"
 )
 
 type Handler struct {

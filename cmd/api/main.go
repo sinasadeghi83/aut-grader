@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"github.com/sinasadeghi83/aut-grader/internal/api/config"
-	"github.com/sinasadeghi83/aut-grader/internal/api/platform/database"
 	"github.com/sinasadeghi83/aut-grader/internal/api/server"
+	"github.com/sinasadeghi83/aut-grader/pkg/config"
+	"github.com/sinasadeghi83/aut-grader/pkg/platform/database"
 )
 
 func main() {

@@ -1,6 +1,6 @@
 package user
 
-import "github.com/sinasadeghi83/aut-grader/internal/api/platform/model"
+import "github.com/sinasadeghi83/aut-grader/pkg/platform/model"
 
 type User struct {
 	model.Model

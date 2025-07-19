@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt"
-	"github.com/sinasadeghi83/aut-grader/internal/api/config"
+	"github.com/sinasadeghi83/aut-grader/pkg/config"
 )
 
 type UserService struct {

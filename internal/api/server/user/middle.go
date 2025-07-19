@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"github.com/sinasadeghi83/aut-grader/internal/api/platform/rest"
+	"github.com/sinasadeghi83/aut-grader/pkg/platform/rest"
 )
 
 func (h *Handler) CheckAuth(c *gin.Context) {
